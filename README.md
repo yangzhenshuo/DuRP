@@ -281,7 +281,7 @@ python train/train.py \
 
 ## Checkpoints and Datasets
 Pretrained checkpoints and processed datasets will be released at:
-- Checkpoints: [https://drive.google.com/drive/folders/1ytiAFX0Y3nIlrZdntMB15I7BrAgGudoo?usp=sharing](https://drive.google.com/drive/folders/1ytiAFX0Y3nIlrZdntMB15I7BrAgGudoo?usp=sharing)
+- Checkpoints: [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-blue)](https://huggingface.co/yangzhenshuo/DuRP)
 - dataset: [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/yangzhenshuo/DuRP_Dataset)
 
 ## Citation
